@@ -27,7 +27,7 @@ The Expense Tracker CLI is a command-line interface (CLI) application that allow
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/expense-tracker-cli.git
+   git clone git@github.com:ricky6362/Phase-3-Final-Project.git
 
 2. Navigate to the project directory:
     ```
